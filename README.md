@@ -7,6 +7,7 @@ In each folder you have 2 train files and 2 validation files : one corresponding
 
 ```python
 import numpy as np 
+
 x_train = np.load('./linear/x_train.npy')
 y_train = np.load('./linear/y_train.npy')
 
